@@ -1,4 +1,4 @@
-# minimal-flask-api
+# Image Caption Generator Backend
 
 ### Setup
 ```angular2html
